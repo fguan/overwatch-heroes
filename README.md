@@ -8,5 +8,5 @@ Overwatch Heroes is release under the MIT Public License.
 
 Credits
 -------
-Overwatch is a game by Blizzard Entertainment.
+Overwatch is a game by Blizzard Entertainment.  
 Angular 2 is a javascript framework by Google, Inc.
